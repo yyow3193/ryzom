@@ -1,0 +1,6 @@
+repo: e0e2948c91982320923d3bfcea12cc935095f94c
+node: bd3699fc83ce2786994c77b001f43291b1528bf3
+branch: develop
+latesttag: ryzomcore/v0.12.0
+latesttagdistance: 257
+changessincelatesttag: 288
